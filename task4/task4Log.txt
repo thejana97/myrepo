@@ -1,0 +1,27 @@
+
+2021-03-28 ------ uploaded
+2021-03-28 ------ /home/ec2-user/task4/2021-03-28-log.tar.gz exists
+2021-03-28 ------ uploaded
+2021-03-28 ------ uploaded
+2021-03-28 ------ uploaded
+2021-03-28 ------ uploaded
+2021-03-28 ------ uploaded
+2021-03-28 ------ uploaded
+2021-03-28 ------ File is uploaded to s3 and deleted from server 
+2021-03-28 ------ File is uploaded to s3 and deleted from server 
+2021-03-28 ------ File is uploaded 
+2021-03-28 ------ File is uploaded to s3 and deleted from server 
+2021-03-28 ------ File is uploaded 
+2021-03-28 ------ File is uploaded to s3 and deleted from server 
+2021-03-28 ------ File is uploaded 
+2021-03-28 ------ File is uploaded to s3 and deleted from server 
+2021-03-28 ------ File is uploaded 
+2021-03-28 ------ /home/ec2-user/task4/2021-03-28-log.tar.gz exists
+2021-03-28 ------ File is uploaded 
+2021-03-28 ------ /home/ec2-user/task4/2021-03-28-log.tar.gz exists
+2021-03-28 ------ File is uploaded 
+2021-03-28 ------ File is uploaded to s3 and deleted from server 
+2021-03-28 ------ File is uploaded 
+2021-03-28 ------ File is uploaded to s3 and deleted from server 
+2021-03-28-13-43 ------ File is uploaded 
+2021-03-28-13-43 ------ File is uploaded to s3 and deleted from server 
